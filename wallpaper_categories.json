@@ -1,14 +1,14 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "title": "Abstract",
-      "url_link": "https://github.com/ZeeshanGoaltech/ChargingAnimationOnlineData/blob/main/wallpapers/abstract_wallpapers.json"
-    },
-    {
-      "id": 2,
-      "title": "Nature",
-      "url_link": "https://github.com/ZeeshanGoaltech/ChargingAnimationOnlineData/blob/main/wallpapers/nature_wallpapers.json"
-    }
-  ]
+    "categories": [
+        {
+            "id": 1,
+            "title": "Abstract",
+            "url_link": "https://github.com/ZeeshanGoaltech/ChargingAnimationOnlineData/blob/main/wallpapers/abstract_wallpapers.json"
+        },
+        {
+            "id": 2,
+            "title": "Nature",
+            "url_link": "https://github.com/ZeeshanGoaltech/ChargingAnimationOnlineData/blob/main/wallpapers/nature_wallpapers.json"
+        }
+    ]
 }
