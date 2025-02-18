@@ -1,29 +1,14 @@
 {
-    "version": "1.0",
-    "status": true,
-    "data": {
-        "home": [
-            {
-                "id": 1,
-                "name": "Category 1",
-                "slug": "category-1",
-                "status": true
-            },
-            {
-                "id": 2,
-                "name": "Category 2",
-                "slug": "category-2",
-                "status": true
-            }
-        ],
-        "profile": {
-            "name": "John Doe",
-            "email": "johndoe@example.com",
-            "phone": "+1234567890"
-        },
-        "settings": {
-            "notifications": true,
-            "dark_mode": false
-        }
+  "categories": [
+    {
+      "id": 1,
+      "title": "Abstract",
+      "url_link": "https://raw.githubusercontent.com/sohailgoaltech/acme/refs/heads/main/charging_animation_app/AbstractTheme.json"
+    },
+    {
+      "id": 2,
+      "title": "Nature",
+      "url_link": "https://raw.githubusercontent.com/sohailgoaltech/acme/refs/heads/main/charging_animation_app/NatureTheme.json"
     }
+  ]
 }
