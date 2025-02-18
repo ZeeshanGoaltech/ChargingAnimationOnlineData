@@ -1,0 +1,29 @@
+{
+    "version": "1.0",
+    "status": true,
+    "data": {
+        "home": [
+            {
+                "id": 1,
+                "name": "Category 1",
+                "slug": "category-1",
+                "status": true
+            },
+            {
+                "id": 2,
+                "name": "Category 2",
+                "slug": "category-2",
+                "status": true
+            }
+        ],
+        "profile": {
+            "name": "John Doe",
+            "email": "johndoe@example.com",
+            "phone": "+1234567890"
+        },
+        "settings": {
+            "notifications": true,
+            "dark_mode": false
+        }
+    }
+}
