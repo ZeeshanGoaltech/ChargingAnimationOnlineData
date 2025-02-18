@@ -18,12 +18,12 @@
         {
             "id": 4,
             "title": "Gaming",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/gaming_wallpaper.json"
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/gaming_wallpapers.json"
         },
         {
             "id": 5,
             "title": "Cartoon",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/cartoon_wallpapers.json"
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/cartoon_wallpaper.json"
         },
         {
             "id": 6,
@@ -38,7 +38,7 @@
         {
             "id": 8,
             "title": "Animals",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/animals_wallpapers.json"
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/animals_wallpaper.json"
         }
     ]
 }
