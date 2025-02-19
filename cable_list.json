@@ -1,0 +1,60 @@
+
+{
+  "cables": [
+    {
+      "id": 0,
+      "cable_name": "Cable 1",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_2.png"
+    },
+    {
+      "id": 1,
+      "cable_name": "Cable 2",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_3.png"
+    },
+    {
+      "id": 2,
+      "cable_name": "Cable 3",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_4.png"
+    },
+    {
+      "id": 3,
+      "cable_name": "Cable 4",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_5.png"
+    },
+    {
+      "id": 4,
+      "cable_name": "Cable 5",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_6.png"
+    },
+    {
+      "id": 5,
+      "cable_name": "Cable 6",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_7.png"
+    },
+    {
+      "id": 6,
+      "cable_name": "Cable 7",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_8.png"
+    },
+    {
+      "id": 7,
+      "cable_name": "Cable 8",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_9.png"
+    },
+    {
+      "id": 8,
+      "cable_name": "Cable 9",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_10.png"
+    },
+    {
+      "id": 9,
+      "cable_name": "Cable 10",
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_11.png"
+    },
+    {
+      "id": 10,
+      "cable_name": "Cable 11",
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_12.png"
+    }
+ ]
+}
