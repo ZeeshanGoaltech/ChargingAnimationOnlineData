@@ -94,56 +94,51 @@
     {
       "id":18,
       "animation_name": "Animation 19",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_23.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_24.json"
     },
     {
       "id":19,
       "animation_name": "Animation 20",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_24.json"
-    },
-    {
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_25.json"
+    }
+    ,{
       "id":20,
       "animation_name": "Animation 21",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_25.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_27.json"
     }
     ,{
       "id":21,
       "animation_name": "Animation 22",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_27.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_29.json"
     }
     ,{
       "id":22,
       "animation_name": "Animation 23",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_29.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_30.json"
     }
     ,{
       "id":23,
       "animation_name": "Animation 24",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_30.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_31.json"
     }
     ,{
       "id":24,
       "animation_name": "Animation 25",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_31.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_32.json"
     }
     ,{
       "id":25,
       "animation_name": "Animation 26",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_32.json"
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_33.json"
     }
     ,{
       "id":26,
-      "animation_name": "Animation 27",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_33.json"
+      "animation_name": "Animation 26",
+      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_34.json"
     }
     ,{
       "id":27,
       "animation_name": "Animation 28",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_34.json"
-    }
-    ,{
-      "id":28,
-      "animation_name": "Animation 29",
       "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_35.json"
     }
   ]
