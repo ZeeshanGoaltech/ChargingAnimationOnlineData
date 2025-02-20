@@ -3,61 +3,73 @@
     {
       "id": 0,
       "sound_name": "Sound 1",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/2.MP3"
     },
     {
       "id": 1,
       "sound_name": "Sound 2",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/3.MP3"
     },
     {
       "id": 2,
       "sound_name": "Sound 3",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/4.MP3"
     },
     {
       "id": 3,
       "sound_name": "Sound 4",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/5.MP3"
     },
     {
       "id": 4,
       "sound_name": "Sound 5",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/6.MP3"
     },
     {
       "id": 5,
       "sound_name": "Sound 6",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/7.MP3"
     },
     {
       "id": 6,
       "sound_name": "Sound 7",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/8.MP3"
     },
     {
       "id": 7,
       "sound_name": "Sound 8",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/9.MP3"
     },
     {
       "id": 8,
       "sound_name": "Sound 9",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/11.MP3"
     },
     {
       "id": 9,
       "sound_name": "Sound 10",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/12.MP3"
     },
     {
       "id": 10,
       "sound_name": "Sound 11",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/13.MP3"
     },
     {
       "id":11,
       "sound_name": "Sound 12",
+      "duration": "1s",
       "sound_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/sounds/14.MP3"
     }
   ]
