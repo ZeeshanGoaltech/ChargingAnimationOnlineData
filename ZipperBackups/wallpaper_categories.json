@@ -2,43 +2,53 @@
     "categories": [
         {
             "id": 1,
-            "title": "Abstract",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/abstract_wallpapers.json"
+            "title": "Ramazan",
+            "url_link": "Ramazan.json"
         },
         {
             "id": 2,
-            "title": "Nature",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/nature_wallpapers.json"
+            "title": "Anime",
+            "url_link": "Anime.json"
         },
         {
             "id": 3,
-            "title": "Anime",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/animation_wallpaper.json"
+            "title": "Cute",
+            "url_link": "Cute.json"
         },
         {
             "id": 4,
-            "title": "Gaming",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/gaming_wallpapers.json"
+            "title": "Aesthetic",
+            "url_link": "Aesthetic.json"
         },
         {
             "id": 5,
-            "title": "Cartoon",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/cartoon_wallpaper.json"
+            "title": "Christmas",
+            "url_link": "Christmas.json"
         },
         {
             "id": 6,
-            "title": "Cars",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/car_wallpapers.json"
+            "title": "Spiderman",
+            "url_link": "Spiderman.json"
         },
         {
             "id": 7,
-            "title": "Super Heros",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/super_hero_wallpapers.json"
+            "title": "Thank giving",
+            "url_link": "Thankgiving.json"
         },
         {
             "id": 8,
-            "title": "Animals",
-            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/animals_wallpaper.json"
+            "title": "Ghost Rider",
+            "url_link": "GhostRider.json"
+        },
+        {
+            "id": 9,
+            "title": "Halloween",
+            "url_link": "Halloween.json"
+        },
+        {
+            "id": 10,
+            "title": "Marvel",
+            "url_link": "Marvel.json"
         }
     ]
 }
