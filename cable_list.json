@@ -4,57 +4,52 @@
     {
       "id": 0,
       "cable_name": "Cable 1",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_2.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Arrow.json"
     },
     {
       "id": 1,
       "cable_name": "Cable 2",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_3.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Balls.json"
     },
     {
       "id": 2,
       "cable_name": "Cable 3",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_4.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Battery.json"
     },
     {
       "id": 3,
       "cable_name": "Cable 4",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_5.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Fire.json"
     },
     {
       "id": 4,
       "cable_name": "Cable 5",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_6.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Flags.json"
     },
     {
       "id": 5,
       "cable_name": "Cable 6",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_7.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Flower.json"
     },
     {
       "id": 6,
       "cable_name": "Cable 7",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_8.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Fruits.json"
     },
     {
       "id": 7,
       "cable_name": "Cable 8",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_9.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Heart 2.json"
     },
     {
       "id": 8,
       "cable_name": "Cable 9",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_10.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Heart.json"
     },
     {
       "id": 9,
       "cable_name": "Cable 10",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_11.png"
-    },
-    {
-      "id": 10,
-      "cable_name": "Cable 11",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_cables/cable_12.png"
+      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Smoke.json"
     }
  ]
 }
