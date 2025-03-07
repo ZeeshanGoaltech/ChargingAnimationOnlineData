@@ -318,7 +318,7 @@
 },
     {
   "animation_category": "Circle",
-  "animation_url": "Circle/c1.json"
+  "animation_url": "Circle/C1.json"
 },
 {
   "animation_category": "Circle",
@@ -439,7 +439,247 @@
 {
   "animation_category": "Funny",
   "animation_url": "Funny/19.json"
+},{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/1.json"
+},
+{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/2.json"
+},
+{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/3.json"
+},
+{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/4.json"
+},
+{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/5.json"
+},
+{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/6.json"
+},
+{
+  "animation_category": "Liquids",
+  "animation_url": "Liquids/7.json"
+},
+    {
+  "animation_category": "Love",
+  "animation_url": "Love/1.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/2.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/3.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/4.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/5.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/6.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/7.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/8.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/9.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/10.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/11.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/12.json"
+},
+{
+  "animation_category": "Love",
+  "animation_url": "Love/13.json"
 }
+,
+    {
+  "animation_category": "Neon",
+  "animation_url": "Neon/1.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/2.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/3.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/4.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/5.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/6.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/7.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/8.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/9.json"
+},
+{
+  "animation_category": "Neon",
+  "animation_url": "Neon/10.json"
+}
+,
+    {
+  "animation_category": "Robot",
+  "animation_url": "Robot/1.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/2.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/3.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/4.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/5.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/6.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/7.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/8.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/9.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/10.json"
+},
+{
+  "animation_category": "Robot",
+  "animation_url": "Robot/11.json"
+},
+    {
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/1.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/2.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/3.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/4.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/5.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/6.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/7.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/8.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/9.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/10.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/11.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/12.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/13.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/14.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/15.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/16.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/17.json"
+},
+{
+  "animation_category": "Smiley",
+  "animation_url": "Smiley/18.json"
+}
+
+
+
 
 
 
