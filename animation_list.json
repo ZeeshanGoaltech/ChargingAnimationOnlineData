@@ -1,173 +1,108 @@
-
 {
   "animations": [
     {
-      "id": 0,
-      "animation_name": "Animation 1",
-      "animation_category": "Neon",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/egg.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/1.json"
     },
     {
-      "id": 1,
-      "animation_name": "Animation 2",
-      "animation_category": "Neon",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/heart_charger.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/2.json"
     },
     {
-      "id": 2,
-      "animation_name": "Animation 3",
-      "animation_category": "Neon",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/picacho.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/3.json"
     },
     {
-      "id": 3,
-      "animation_name": "Animation 4",
-      "animation_category": "Love",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/star.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/4.json"
     },
     {
-      "id": 4,
-      "animation_name": "Animation 5",
-      "animation_category": "Love",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/white_heart.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/5.json"
     },
     {
-      "id": 5,
-      "animation_name": "Animation 6",
-      "animation_category": "Love",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_1.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/6.json"
     },
     {
-      "id": 6,
-      "animation_name": "Animation 7",
-      "animation_category": "Robot",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_2.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/7.json"
     },
     {
-      "id": 7,
-      "animation_name": "Animation 8",
-      "animation_category": "Robot",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_4.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/8.json"
     },
     {
-      "id": 8,
-      "animation_name": "Animation 9",
-      "animation_category": "Robot",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_6.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/9.json"
     },
     {
-      "id": 9,
-      "animation_name": "Animation 10",
-      "animation_category": "Liquids ",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_8.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/10.json"
     },
     {
-      "id": 10,
-      "animation_name": "Animation 11",
-      "animation_category": "Liquids ",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_9.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/11.json"
     },
     {
-      "id":11,
-      "animation_name": "Animation 12",
-      "animation_category": "Liquids ",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_16.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/12.json"
     },
     {
-      "id":12,
-      "animation_name": "Animation 13",
-      "animation_category": "Funny",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_17.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/13.json"
     },
     {
-      "id":13,
-      "animation_name": "Animation 14",
-      "animation_category": "Funny",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_18.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/14.json"
     },
     {
-      "id":14,
-      "animation_name": "Animation 15",
-      "animation_category": "Funny",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_19.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/15.json"
     },
     {
-      "id":15,
-      "animation_name": "Animation 16",
-      "animation_category": "Funny",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_20.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/16.json"
     },
     {
-      "id":16,
-      "animation_name": "Animation 17",
-      "animation_category": "Funny",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_21.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/17.json"
     },
     {
-      "id":17,
-      "animation_name": "Animation 18",
-      "animation_category": "Circle",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_22.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/18.json"
     },
     {
-      "id":18,
-      "animation_name": "Animation 19",
-      "animation_category": "Circle",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_24.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/19.json"
     },
     {
-      "id":19,
-      "animation_name": "Animation 20",
-      "animation_category": "Circle",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_25.json"
-    }
-    ,{
-      "id":20,
-      "animation_name": "Animation 21",
-      "animation_category": "Circle",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_27.json"
-    }
-    ,{
-      "id":21,
-      "animation_name": "Animation 22",
-      "animation_category": "Circle",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_29.json"
-    }
-    ,{
-      "id":22,
-      "animation_name": "Animation 23",
-      "animation_category": "Anime",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_30.json"
-    }
-    ,{
-      "id":23,
-      "animation_name": "Animation 24",
-      "animation_category": "Anime",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_31.json"
-    }
-    ,{
-      "id":24,
-      "animation_name": "Animation 25",
-      "animation_category": "Anime",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_32.json"
-    }
-    ,{
-      "id":25,
-      "animation_name": "Animation 26", 
-      "animation_category": "Cartoon",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_33.json"
-    }
-    ,{
-      "id":26,
-      "animation_name": "Animation 26",
-      "animation_category": "Cartoon",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_34.json"
-    }
-    ,{
-      "id":27,
-      "animation_name": "Animation 28",
-      "animation_category": "Cartoon",
-      "animation_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/lottie_animations/new_35.json"
+      "animation_category": "Animal",
+      "animation_url": "Animal/20.json"
+    },
+    {
+      "animation_category": "Animal",
+      "animation_url": "Animal/21.json"
+    },
+    {
+      "animation_category": "Animal",
+      "animation_url": "Animal/22.json"
+    },
+    {
+      "animation_category": "Animal",
+      "animation_url": "Animal/23.json"
+    },
+    {
+      "animation_category": "Animal",
+      "animation_url": "Animal/24.json"
+    },
+    {
+      "animation_category": "Animal",
+      "animation_url": "Animal/25.json"
+    },
+    {
+      "animation_category": "Animal",
+      "animation_url": "Animal/26.json"
     }
   ]
 }
