@@ -103,6 +103,345 @@
     {
       "animation_category": "Animal",
       "animation_url": "Animal/26.json"
-    }
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a1.json"
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a2.json"
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a3.json"
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a4.json"
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a5.json"
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a6.json"
+    },
+    {
+      "animation_category": "Anime",
+      "animation_url": "Anime/a7.json"
+    },
+{
+      "animation_category": "Battery",
+      "animation_url": "Battery/1.json"
+    },
+    {
+      "animation_category": "Battery",
+      "animation_url": "Battery/2.json"
+    },
+    {
+      "animation_category": "Battery",
+      "animation_url": "Battery/3.json"
+    },
+    {
+      "animation_category": "Battery",
+      "animation_url": "Battery/4.json"
+    },
+    {
+      "animation_category": "Battery",
+      "animation_url": "Battery/5.json"
+    },
+    {
+      "animation_category": "Battery",
+      "animation_url": "Battery/6.json"
+    },
+      {
+  "animation_category": "Cars",
+  "animation_url": "Cars/1.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/2.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/3.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/4.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/5.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/6.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/7.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/8.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/9.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/10.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/11.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/12.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/13.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/14.json"
+},
+{
+  "animation_category": "Cars",
+  "animation_url": "Cars/15.json"
+},
+    {
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/1.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/2.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/3.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/4.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/5.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/6.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/7.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/8.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/9.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/10.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/11.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/12.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/13.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/14.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/15.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/16.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/17.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/18.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/19.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/20.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/21.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/22.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/23.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/24.json"
+},
+{
+  "animation_category": "Cartoon",
+  "animation_url": "Cartoon/25.json"
+},
+    {
+  "animation_category": "Circle",
+  "animation_url": "Circle/c1.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c2.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c3.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c4.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c5.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c6.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c7.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c8.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c9.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c10.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c11.json"
+},
+{
+  "animation_category": "Circle",
+  "animation_url": "Circle/c12.json"
+},
+    {
+  "animation_category": "Funny",
+  "animation_url": "Funny/1.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/2.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/3.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/4.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/5.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/6.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/7.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/8.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/9.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/10.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/11.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/12.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/13.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/14.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/15.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/16.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/17.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/18.json"
+},
+{
+  "animation_category": "Funny",
+  "animation_url": "Funny/19.json"
+}
+
+
+
   ]
 }
