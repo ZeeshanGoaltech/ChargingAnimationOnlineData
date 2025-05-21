@@ -37,11 +37,6 @@
       "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Fruits.json"
     },
     {
-      "id": 7,
-      "cable_name": "Cable 8",
-      "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Heart 2.json"
-    },
-    {
       "id": 8,
       "cable_name": "Cable 9",
       "cable_url": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/charging_waves/Heart.json"
